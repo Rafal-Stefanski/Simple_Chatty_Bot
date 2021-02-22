@@ -5,16 +5,21 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Problems/Call me awesome" />
+            <option value="$PROJECT_DIR$/Problems/Check burgs" />
+            <option value="$PROJECT_DIR$/Problems/Check prefix ignoring the case" />
             <option value="$PROJECT_DIR$/Problems/Check the sum" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Decrement all" />
             <option value="$PROJECT_DIR$/Problems/Decrement all (1)" />
+            <option value="$PROJECT_DIR$/Problems/Extracting a substring" />
             <option value="$PROJECT_DIR$/Problems/From 0 to 4" />
             <option value="$PROJECT_DIR$/Problems/Guest list of a hotel" />
             <option value="$PROJECT_DIR$/Problems/Healthy sleep" />
@@ -25,6 +30,7 @@
             <option value="$PROJECT_DIR$/Problems/Reversing" />
             <option value="$PROJECT_DIR$/Problems/Squirrels and nuts" />
             <option value="$PROJECT_DIR$/Problems/Tens digit" />
+            <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
